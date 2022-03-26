@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>
+   area of a square
+<\title>
+<\head>
+<\body>
+   <script type="text/javascript">
+   var s,area;
+   s=parseInt(prompt("Enter s value"));
+   area=s*s;
+   document.write("area value="+area);
+<\script>
+<\body>
+<\html>
+
